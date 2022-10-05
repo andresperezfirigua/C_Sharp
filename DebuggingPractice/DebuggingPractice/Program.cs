@@ -6,7 +6,13 @@ namespace DebuggingPractice
     {
         static void Main(string[] args)
         {
+            string name = "";
             Console.WriteLine("Hello Andres!");
+        }
+
+        static void hola()
+        {
+            int age = 0;
         }
     }
 }
