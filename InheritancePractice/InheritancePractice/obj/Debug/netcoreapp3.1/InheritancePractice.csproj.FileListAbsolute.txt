@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.exe
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.deps.json
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.json
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.dev.json
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.dll
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.pdb
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfo.cs
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.dll
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.pdb
+C:\Users\test\source\repos\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.genruntimeconfig.cache

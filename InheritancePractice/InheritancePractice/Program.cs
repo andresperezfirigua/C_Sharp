@@ -6,7 +6,13 @@ namespace InheritancePractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Dog dog = new Dog("Muñeca", 10);
+            Console.WriteLine($"{dog.Name} is {dog.Age} years old");
+            //dog.IsHungry = false;
+            //dog.IsHappy = false;
+            dog.Eat();
+            dog.MakeSound();
+            dog.Play();
         }
     }
 }
