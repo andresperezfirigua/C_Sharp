@@ -30,6 +30,20 @@ namespace InheritancePractice2
             return String.Format("{0} - {1} - {2} - {3} by {4}", this.ID, this.Title, this.VideoURL, this.Length, this.SentByUser);
         }
 
-        
+        public void Play()
+        {
+            timer = new Timer();
+            timer.Elapsed += DisplayTimeEvent;
+            timer.Interval = 1000;
+            timer.Enabled = true;
+
+            Console.WriteLine("Press any key to pause sequence");
+            Console.ReadKey();
+        }
+
+        public void DisplayTimeEvent (object source, ElapsedEventArgs e)
+        {
+            Console.WriteLine(" \r{0}", DateTime.Now);
+        }
     }
 }
