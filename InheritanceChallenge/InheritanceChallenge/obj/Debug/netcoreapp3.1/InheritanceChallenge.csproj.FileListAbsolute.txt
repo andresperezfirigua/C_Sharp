@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.exe
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.deps.json
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.runtimeconfig.json
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.runtimeconfig.dev.json
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.dll
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\netcoreapp3.1\InheritanceChallenge.pdb
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.dll
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.pdb
+C:\Users\test\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\netcoreapp3.1\InheritanceChallenge.genruntimeconfig.cache

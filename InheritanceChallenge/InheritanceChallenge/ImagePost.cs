@@ -1,8 +1,9 @@
-﻿using System;
+﻿using InheritanceChallenge;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace InheritancePractice2
+namespace InheritanceChallenge
 {
     internal class ImagePost : Post
     {
@@ -27,3 +28,4 @@ namespace InheritancePractice2
         }
     }
 }
+
