@@ -11,6 +11,9 @@ namespace InheritancePractice2
             Post secondPost = new Post("Holi","Angelito",true);
             Console.WriteLine(secondPost.ToString());
 
+            Post thirdPost = new Post("Holi", "Pipesito", true);
+            Console.WriteLine(thirdPost.ToString());
+
             ImagePost imagePost = new ImagePost("Holi aqui una imagen","https://image.com/picture", "Felipe", true);
             Console.WriteLine(imagePost.ToString());
 
