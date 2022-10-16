@@ -17,7 +17,7 @@ namespace InheritancePractice2
             ImagePost imagePost2 = new ImagePost("Holi aqui otra imagen", "https://image.com/picture", "Diego", true);
             Console.WriteLine(imagePost2.ToString());
 
-            VideoPost vp1 = new VideoPost("My first video","https://myvideo.com/first",10,"Felipito",true);
+            VideoPost vp1 = new VideoPost("My first video","https://myvideo.com/first",20,"Felipito",true);
             Console.WriteLine(vp1.ToString());
             vp1.Play();
         }

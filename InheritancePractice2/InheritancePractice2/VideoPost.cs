@@ -10,7 +10,8 @@ namespace InheritancePractice2
         private string VideoURL { get; set; }
         private int Length { get; set; }
 
-        public Timer timer;
+        private Timer timer;
+        private int elapsedSeconds { get; set; }
 
 
 
@@ -18,6 +19,7 @@ namespace InheritancePractice2
 
         public VideoPost (string title, string videoURL, int length, string sentByUser, bool isPublic)
         {
+            this.ID = GetNextID();
             this.Title = title;
             this.VideoURL = videoURL;
             this.Length = length;
@@ -38,12 +40,29 @@ namespace InheritancePractice2
             timer.Enabled = true;
 
             Console.WriteLine("Press any key to pause sequence");
-            Console.ReadKey();
+
+            if(Console.ReadKey().Key != null)
+            {
+                this.Stop();
+            }
+        }
+
+        public void Stop()
+        {
+            Console.WriteLine("Stopped at {0}s", elapsedSeconds);
         }
 
         public void DisplayTimeEvent (object source, ElapsedEventArgs e)
         {
-            Console.WriteLine(" \r{0}", DateTime.Now);
+            if(elapsedSeconds != Length)
+            {
+                Console.WriteLine(" \r{0}", ++elapsedSeconds);
+            } else
+            {
+                this.Stop();
+                timer.Stop();
+                timer.Dispose();
+            }
         }
     }
 }
