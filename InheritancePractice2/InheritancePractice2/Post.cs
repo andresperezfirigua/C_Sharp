@@ -6,8 +6,7 @@ namespace InheritancePractice2
 {
     internal class Post
     {
-        private int currentPostID;
-
+        private static int currentPostID { get; set; }
         protected int ID { get; set; }
         protected string Title { get; set; }
         protected string SentByUser { get; set; }
@@ -15,18 +14,18 @@ namespace InheritancePractice2
 
         public Post()
         {
-            ID = 0;
-            Title = "My first post";
-            SentByUser = "Andres Perez";
-            IsPublic = true;
+            this.ID = 0;
+            this.Title = "My first post";
+            this.SentByUser = "Andres Perez";
+            this.IsPublic = true;
         }
 
         public Post (string title, string sentByUser, bool isPublic)
         {
-            ID = GetNextID();
-            Title = title;
-            SentByUser = sentByUser;
-            IsPublic = isPublic;
+            this.ID = GetNextID();
+            this.Title = title;
+            this.SentByUser = sentByUser;
+            this.IsPublic = isPublic;
         }
 
         protected int GetNextID()
