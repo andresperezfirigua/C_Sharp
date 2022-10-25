@@ -22,7 +22,14 @@ namespace InheritancePractice2
 
             VideoPost vp1 = new VideoPost("My first video","https://myvideo.com/first",20,"Felipito",true);
             Console.WriteLine(vp1.ToString());
-            vp1.Play();
+            //vp1.Play();
+
+            VideoPostSolved vps1 = new VideoPostSolved("My first video", "Felipito", "https://myvideo.com/first", true, 10);
+            Console.WriteLine(vps1.ToString());
+            vps1.Play();
+            Console.WriteLine("Press any key to stop the video!");
+            Console.ReadKey();
+            vps1.Stop();
         }
     }
 }
