@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.exe
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.deps.json
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.json
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.dev.json
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfo.cs
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.genruntimeconfig.cache
