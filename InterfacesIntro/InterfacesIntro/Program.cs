@@ -12,7 +12,15 @@ namespace InterfacesIntro
             Console.WriteLine(tk2.Equals(tk1));*/
 
             // Implementing own interface
+            Chair officechair = new Chair("Black", "plastic");
+            Chair homechair = new Chair("Grey", "Metal");
+            Car niceCar = new Car(200f, "Red");
 
+            Car damagedCar = new Car(120f, "Blue");
+            damagedCar.DestroyablesNearby.Add(officechair);
+            damagedCar.DestroyablesNearby.Add(homechair);
+            damagedCar.DestroyablesNearby.Add(niceCar);
+            damagedCar.Destroy();
         }
     }
 }
