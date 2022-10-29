@@ -12,3 +12,17 @@ C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3
 C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.dll
 C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.pdb
 C:\Users\user\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.genruntimeconfig.cache
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.exe
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.deps.json
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.json
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.runtimeconfig.dev.json
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\bin\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.AssemblyInfo.cs
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.dll
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.pdb
+C:\Users\test\source\repos\InterfacesIntro\InterfacesIntro\obj\Debug\netcoreapp3.1\InterfacesIntro.genruntimeconfig.cache
